@@ -1,5 +1,10 @@
 __pycache__/
 .env
+
 *test*
-*auth*
+
+*.txt
+authorization_code.txt
+access_token.txt
+
 *secrets*
