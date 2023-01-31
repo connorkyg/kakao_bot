@@ -4,7 +4,9 @@ __pycache__/
 *test*
 
 *.txt
-authorization_code.txt
-access_token.txt
+*.authorization_code.txt
+*.authorization_code.txt
+*.access_token.txt
+*.access_token.txt
 
 *secrets*
